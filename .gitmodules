@@ -2,10 +2,10 @@
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
 [submodule "contracts/lib/openzeppelin-contracts"]
-	path = contracts/lib/openzeppelin-contracts
+	path = lib/openzeppelin-contracts
 	url = https://github.com/openzeppelin/openzeppelin-contracts
-[submodule "lib/Solady"]
-	path = contracts/lib/Solady
+[submodule "contracts/lib/Solady"]
+	path = lib/Solady
 	url = https://github.com/Vectorized/Solady
 [submodule "contracts/lib/V2-gov"]
 	path = lib/V2-gov
